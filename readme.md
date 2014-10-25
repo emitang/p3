@@ -12,6 +12,6 @@ I'll be giving my demo during my Wednesday section with Katherine
 Digital Ocean droplet still rogue... Will probably try destroying and making a new one at some point. 
 
 # Outside Code
-The Laravel framework was used in this project: http://laravel.com
-Lorem Ipsum text came from this package: https://packagist.org/packages/badcow/lorem-ipsum
+The Laravel framework was used in this project: http://laravel.com <br>
+Lorem Ipsum text came from this package: https://packagist.org/packages/badcow/lorem-ipsum <br>
 Random users generated with this package: https://packagist.org/packages/fzaninotto/faker
