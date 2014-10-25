@@ -15,5 +15,5 @@
 	@yield('content')
 
 	@yield('body')
-	<small><a href=""
+	<small id="footer"><a href="https://github.com/emitang/p3">View GitHub</a></small>
 </body>
