@@ -1,0 +1,70 @@
+#top-wrapper {
+	position: fixed;
+	width: 100%;
+	max-height: 10%;
+	min-height: 70px;
+	background: #D3E8DD;
+	display: block;
+	top: 0;
+	left: 0;
+	box-shadow: 0px 3px 3px #888888;
+	opacity: 0.7;
+}
+
+#title {
+	margin-left: 40px;
+	position: fixed;
+	top: 0;
+	margin-top: 15px;
+	min-height: 10%;
+}
+
+#title-link {
+	color: #000000;
+}
+
+#title-link:visited {
+	color: #000000;
+}
+
+#footer {
+	position: fixed;
+	bottom: 10px;
+	text-align: center;
+	width: 100%;
+}
+
+a:link {
+	color: #82C4A6;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #82C4A6;
+	text-decoration: none;
+}
+
+.body-wrapper {
+	top: 75px;
+	position: absolute;
+	padding-left: 50px;
+	left: 0;
+	width: 100%;
+	background: #F2F7F5;
+	height: 100%;
+	margin-right: 100px;
+}
+
+body {
+	background: #F2F7F5;
+}
+
+.p-wrapper {
+	margin-bottom: 75px;
+	margin-top: 15px;
+	width: 80%;
+}
+
+#form-wrapper {
+	margin-left: 20px;
+}
