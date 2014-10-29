@@ -6,10 +6,10 @@ http://p3.emilytang.me
 A Web Developer's Best Friend: a website for generating random Lorem Ipsum text to fill a webpage and random users to populate a website. Asks for different types of input and generates data according to the user's specifications. 
 
 # Demo
-I'll be giving my demo during my Wednesday section with Katherine
+My demo is up on Jing screencast: http://screencast.com/t/e2pBJKSd0c9
 
 # Details for Teaching Team
-Digital Ocean droplet still rogue... Will probably try destroying and making a new one at some point. 
+I've destroyed the old droplet and made a new one. It works sometimes... 
 
 # Outside Code
 The Laravel framework was used in this project: http://laravel.com <br>
